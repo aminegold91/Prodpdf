@@ -1,0 +1,44 @@
+body {
+  background: #555;
+    font-size: 15pt;
+}
+ 
+*{
+  padding: 0;margin: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+button{
+  margin: 10px auto;
+  display: flex;
+  padding: 15px 20px;
+  font-size: 19px
+}
+
+  table{
+    margin: 10px auto;
+    width: 400px;
+    
+  }
+  table th{
+    padding: 8px 10px;
+  }
+  table tr,td{
+    background: #ddd;
+    font-weight: bolder;
+  }
+  table tr td{
+    width: 200px;
+    height: 60px;
+    padding: 8px 10px;
+    text-align: center;
+  }
+  table tr td img{
+    width: 100%;
+  }
+/*   .card{
+  width: 100%;
+  height: auto;
+  border: 3px solid lightseagreen;
+} */
