@@ -1,0 +1,63 @@
+[
+  {
+  "img":"20240923_191510.jpg",
+  "name":"etager carer",
+  "price":"120dh",
+  "praces":"85dh"
+  },
+  {
+    "img": "20240923_191303.jpg",
+    "name": "etager twila",
+    "price": "60dh",
+    "praces": "75dh"
+  },
+  {
+    "img": "20240918_182956.jpg",
+    "name": "gautoir khal",
+    "price": "330dh",
+    "praces": "400dh"
+  },
+  {
+    "img": "20240922_122324.png",
+    "name": "platau",
+    "price": "11dh",
+    "praces": "13dh"
+  },
+  {
+    "img": "20240922_122337.png",
+    "name":"platau",
+    "price": "11.5dh",
+    "praces": "13dh"
+  },
+  {
+    "img": "IMG_20240905_172655_048.jpg",
+    "name": "stal jfaf",
+    "price": "110dh",
+    "praces": "140dh"
+  },
+  {
+    "img": "IMG_20240905_172533_828.jpg",
+    "name": " bambo",
+    "price": "150dh",
+    "praces": "180dh"
+  },
+  {
+    "img": "IMG_20240905_172131_856.jpg",
+    "name": "rechau",
+    "price": "80dh",
+    "praces": "100dh"
+  },
+  {
+    "img": "IMG_20240905_172054_084.jpg",
+    "name": "etager douch",
+    "price": "130dh",
+    "praces": "220dh"
+  },
+  {
+    "img": "IMG_20240905_172134_931.jpg",
+    "name": "panini",
+    "price": "190dh",
+    "praces": "250dh"
+  }
+  
+]
