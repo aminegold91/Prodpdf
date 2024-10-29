@@ -11,7 +11,9 @@ fetch("data.json")
     out += `
      <tr>
           <td>
+          <a href='${product.img}'>
           <img src='${product.img}'/>
+          </a>
           </td>
           <td>${product.name}</td>
           <td>${product.price}</td>
