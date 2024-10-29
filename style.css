@@ -14,21 +14,18 @@ button{
   padding: 15px 20px;
   font-size: 19px;
 }
-
-  table{
+table{
     margin: 10px auto;
     width: 400px;
-    
   }
-  table th{
+table th{
     padding: 8px 10px;
     border: 1px solid black;
   }
-  table tr,td{
-    
+table tr,td{
     font-weight: bolder;
     border: 1px solid black;
-  }
+}
   table tr td{
     width: 200px;
     height: 60px;
@@ -38,8 +35,4 @@ button{
   table tr td img{
     width: 100%;
   }
-/*   .card{
-  width: 100%;
-  height: auto;
-  border: 3px solid lightseagreen;
-} */
+
