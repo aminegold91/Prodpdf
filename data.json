@@ -58,6 +58,177 @@
     "name": "panini",
     "price": "190dh",
     "praces": "250dh"
+  },
+  {
+    "img": "IMG_20240905_172523_542.jpg",
+    "name": "panini chwaya",
+    "price": "450dh",
+    "praces": "550dh"
+  },
+  {
+    "img": "IMG_20240905_172125_683.jpg",
+    "name": "casrona 5pcs",
+    "price": "350dh",
+    "praces": "380dh"
+  },
+  {
+    "img": "Photoroom-20240925_140211.png",
+    "name": "moul 3pcs",
+    "price": "350dh",
+    "praces": "380dh"
+  },
+  {
+    "img": "Photoroom-20240923_195826.png",
+    "name": "termoss ",
+    "price": "55dh",
+    "praces": "70dh"
+  },
+  {
+    "img": "Photoroom-20241029_155928.png",
+    "name": "termoss 500ml ",
+    "price": "33dh",
+    "praces": "40dh"
+  },
+  {
+    "img": "Photoroom-20241029_160106.png",
+    "name": "boit malha ",
+    "price": "4.5dh",
+    "praces": "6dh"
+  },
+  {
+    "img": "Photoroom-20241029_155736.png",
+    "name": "sfaya ",
+    "price": "11.5dh",
+    "praces": "15dh"
+  },
+  {
+    "img": "Photoroom-20241029_160250.png",
+    "name": "3la9 3pcs ",
+    "price": "3.5dh",
+    "praces": "5dh"
+  },
+  {
+    "img": "Photoroom-20240923_184353.png",
+    "name": "moul granit",
+    "price": "75dh",
+    "praces": "100dh"
+  },
+  {
+    "img": "Photoroom-20241029_155518.png",
+    "name": "mizan 150kg",
+    "price": "90dh",
+    "praces": "120dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20240923_184712.png",
+    "name": "moul granit",
+    "price": "75dh",
+    "praces": "100dh"
+  },
+  {
+    "img": "Photoroom-20241029_154335.png",
+    "name": "nd 8823 sghira",
+    "price": "400dh",
+    "praces": "500dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_154335.png",
+    "name": "nd 8820 sghira",
+    "price": "600dh",
+    "praces": "800dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_163831.png",
+    "name": "ramass",
+    "price": "15dh",
+    "praces": "20dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_163733.png",
+    "name": "ramass",
+    "price": "25dh",
+    "praces": "30dh"
+  }  
+  ,
+  {
+    "img": "Photoroom-20241029_165230.png",
+    "name": "bonomi 0.8L",
+    "price": "125dh",
+    "praces": "135dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_165230.png",
+    "name": "bonomi 1.2L",
+    "price": "130dh",
+    "praces": "150dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_165230.png",
+    "name": "bonomi 1.6L",
+    "price": "150dh",
+    "praces": "180dh"
+  }  
+  ,
+  {
+    "img": "Photoroom-20241029_170020.png",
+    "name": "PRIMA 0.8L",
+    "price": "110dh",
+    "praces": "120dh"
+  }  
+  ,
+  {
+    "img": "Photoroom-20241029_170020.png",
+    "name": "PRIMA 1.0L",
+    "price": "130dh",
+    "praces": "160dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_170020.png",
+    "name": "PRIMA 1.5L",
+    "price": "140dh",
+    "praces": "180dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_171157.png",
+    "name": "PRIMA 0.8L",
+    "price": "120dh",
+    "praces": "140dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_171157.png",
+    "name": "PRIMA 1.0L",
+    "price": "140dh",
+    "praces": "160dh"
+  }  
+  ,
+  {
+    "img": "Photoroom-20241029_171412.png",
+    "name": "TATCH 3 Cup",
+    "price": "70dh",
+    "praces": "80dh"
+  }  
+  ,
+  {
+    "img": "Photoroom-20241029_171412.png",
+    "name": "TATCH 6 Cup",
+    "price": "80dh",
+    "praces": "90dh"
+  }
+  ,
+  {
+    "img": "Photoroom-20241029_171412.png",
+    "name": "TATCH 9 Cup",
+    "price": "110dh",
+    "praces": "200dh"
   }
   
 ]
