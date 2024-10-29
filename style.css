@@ -1,5 +1,5 @@
 body {
-  background: #555;
+
     font-size: 15pt;
 }
  
@@ -23,10 +23,12 @@ button{
   }
   table th{
     padding: 8px 10px;
+    border: 1px solid black;
   }
   table tr,td{
-    background: #ddd;
+    
     font-weight: bolder;
+    border: 1px solid black;
   }
   table tr td{
     width: 200px;
